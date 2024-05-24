@@ -1,0 +1,80 @@
+C:\Users\Danil\Desktop\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\bin\Debug\EmploymentAgency.exe.config
+C:\Users\Danil\Desktop\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\bin\Debug\EmploymentAgency.exe
+C:\Users\Danil\Desktop\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\bin\Debug\EmploymentAgency.pdb
+C:\Users\Danil\Desktop\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.meetForm.resources
+C:\Users\Danil\Desktop\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.Programm.resources
+C:\Users\Danil\Desktop\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.Properties.Resources.resources
+C:\Users\Danil\Desktop\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.csproj.GenerateResource.cache
+C:\Users\Danil\Desktop\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.exe
+C:\Users\Danil\Desktop\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.pdb
+C:\Users\Danil\Desktop\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.AddUnempForm.resources
+C:\Users\Danil\Desktop\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.csproj.ResolveComReference.cache
+C:\Users\Danil\Desktop\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.csproj.AssemblyReference.cache
+C:\Users\Danil\Desktop\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\Interop.ADODB.dll
+C:\Users\Danil\Desktop\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.EditUnempForm.resources
+C:\Users\Danil\Desktop\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.StipendForm.resources
+C:\Users\Danil\Desktop\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.AddVacForm.resources
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\bin\Debug\EmploymentAgency.exe.config
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\bin\Debug\EmploymentAgency.exe
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\bin\Debug\EmploymentAgency.pdb
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.csproj.AssemblyReference.cache
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\Interop.ADODB.dll
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.csproj.ResolveComReference.cache
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.AddUnempForm.resources
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.AddVacForm.resources
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.EditUnempForm.resources
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.meetForm.resources
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.Programm.resources
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.Properties.Resources.resources
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.StipendForm.resources
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.csproj.GenerateResource.cache
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.csproj.CoreCompileInputs.cache
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.exe
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.pdb
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.EditVacForm.resources
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.EditStipendForm.resources
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.ConfirmEmploymentForm.resources
+D:\Обучение\Курсовая Астапчук\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.EmploymentForm.resources
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\bin\Debug\EmploymentAgency.exe.config
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\bin\Debug\EmploymentAgency.exe
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\bin\Debug\EmploymentAgency.pdb
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\Interop.ADODB.dll
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.csproj.ResolveComReference.cache
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.AddUnempForm.resources
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.AddVacForm.resources
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.ConfirmEmploymentForm.resources
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.EditStipendForm.resources
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.EditUnempForm.resources
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.EditVacForm.resources
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.EmploymentForm.resources
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.meetForm.resources
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.Programm.resources
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.Properties.Resources.resources
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.StipendForm.resources
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.csproj.GenerateResource.cache
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.exe
+C:\Users\Данил\Desktop\Биржа труда\EmploymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.pdb
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\bin\Debug\EmploymentAgency.exe.config
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\bin\Debug\EmploymentAgency.exe
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\bin\Debug\EmploymentAgency.pdb
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\Interop.ADODB.dll
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.csproj.ResolveComReference.cache
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.AddUnempForm.resources
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.AddVacForm.resources
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.ConfirmEmploymentForm.resources
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.EditStipendForm.resources
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.EditUnempForm.resources
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.EditVacForm.resources
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.EmploymentForm.resources
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.meetForm.resources
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.Programm.resources
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.Properties.Resources.resources
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.StipendForm.resources
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.csproj.GenerateResource.cache
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.exe
+C:\Users\Данил\Desktop\EmplymentAgency\EmploymentAgency\obj\Debug\EmploymentAgency.pdb

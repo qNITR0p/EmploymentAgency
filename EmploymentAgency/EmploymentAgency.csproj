@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EBBF8A71-9BFF-4C11-BA7C-31F1E23881BA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>EmploymentAgency</RootNamespace>
+    <AssemblyName>EmploymentAgency</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddUnempForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddUnempForm.Designer.cs">
+      <DependentUpon>AddUnempForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddVacForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddVacForm.Designer.cs">
+      <DependentUpon>AddVacForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfirmEmploymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfirmEmploymentForm.Designer.cs">
+      <DependentUpon>ConfirmEmploymentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DPDateTimePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EditStipendForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditStipendForm.Designer.cs">
+      <DependentUpon>EditStipendForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditUnempForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditUnempForm.Designer.cs">
+      <DependentUpon>EditUnempForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditVacForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditVacForm.Designer.cs">
+      <DependentUpon>EditVacForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmploymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmploymentForm.Designer.cs">
+      <DependentUpon>EmploymentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="meetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="meetForm.Designer.cs">
+      <DependentUpon>meetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Programm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Programm.Designer.cs">
+      <DependentUpon>Programm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StipendForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StipendForm.Designer.cs">
+      <DependentUpon>StipendForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddUnempForm.resx">
+      <DependentUpon>AddUnempForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddVacForm.resx">
+      <DependentUpon>AddVacForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfirmEmploymentForm.resx">
+      <DependentUpon>ConfirmEmploymentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditStipendForm.resx">
+      <DependentUpon>EditStipendForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditUnempForm.resx">
+      <DependentUpon>EditUnempForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditVacForm.resx">
+      <DependentUpon>EditVacForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmploymentForm.resx">
+      <DependentUpon>EmploymentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="meetForm.resx">
+      <DependentUpon>meetForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Programm.resx">
+      <DependentUpon>Programm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="StipendForm.resx">
+      <DependentUpon>StipendForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{B691E011-1797-432E-907A-4D8C69339129}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Access">
+      <Guid>{4AFFC9A0-5F99-101B-AF4E-00AA003F0F07}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Access.Dao">
+      <Guid>{4AC9E1DA-5BAD-4AC7-86E3-24F4CDCECA28}</Guid>
+      <VersionMajor>12</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
